@@ -1,0 +1,15 @@
+{
+  "name": "stackblitz-starters-id15inkx",
+  "version": "1.0.0",
+  "description": "- Understand how to manipulate cookies in web development to track and update a count.\r - Learn to implement client-side logic to increase a cookie-based count with each user interaction.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "start": "servor --reload"
+  },
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
